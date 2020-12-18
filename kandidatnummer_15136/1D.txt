@@ -1,0 +1,1 @@
+Radiell hastighet vr = -1.15e+02 km/s og tangensiell hastighet v_t = 5.91e+01 km/s

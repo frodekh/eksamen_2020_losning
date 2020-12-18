@@ -1,0 +1,1 @@
+event A (alt i km): x = 0, t = 0, x' = 0, t' = 0, x'' = U, t'' = Uevent B (alt i km): x = 350, t = 364.47323, x' = 0, t' = 101.68941, x'' = 0, t'' = 0event C (alt i km): x = 0, t = U, x' = U, t' = U, x'' = 97.65133, t'' = 0event D (alt i km): x = 0, t = U, x' = U, t' = U, x'' = 0, t'' = 101.68941

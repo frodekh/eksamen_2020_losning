@@ -1,0 +1,1 @@
+Detektoren brukt i figur C har størst standardavvik. Standardavviket der er på 123.37.Detektoren brukt i figur E har også stort standardavvik. Standardavviket der er på 104.08.

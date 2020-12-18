@@ -1,0 +1,1 @@
+Det tok 0.17940 timer målt på togfører1 sin klokke.

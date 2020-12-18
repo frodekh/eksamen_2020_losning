@@ -1,0 +1,1 @@
+Relativistisk blir det t_C = 5.00000 timer. Klassisk hadde det blitt 2.50287 timer.

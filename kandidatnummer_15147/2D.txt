@@ -1,0 +1,1 @@
+Tidsintervallet på langt-vekk-klokka blir 4.60 millisekunder.

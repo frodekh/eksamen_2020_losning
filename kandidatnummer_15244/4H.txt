@@ -1,0 +1,1 @@
+Integralet over r går fra 2118400.00 km til 211840000.00 km over dr/(0.0452 + 45.8007km/r) og med faktoren 1/c utenfor for å gjøre svaret om til sekunder.

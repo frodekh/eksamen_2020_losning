@@ -1,0 +1,1 @@
+Fra tog1 sitt system: V_mu(tog2) = (37.69498, -37.68171, 0, 0) og P_mu(tog2) = (3837348.78764, -3835998.23749, 0 , 0) kg.Farta til tog2 målt fra tog1 er -99.96481 km/t.

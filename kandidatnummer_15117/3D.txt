@@ -1,0 +1,1 @@
+Relativistisk blir det t_C = 28.02393 timer. Klassisk hadde det blitt 14.59084 timer.

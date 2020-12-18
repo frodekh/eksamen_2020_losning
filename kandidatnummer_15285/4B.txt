@@ -1,0 +1,1 @@
+Forholdet mellom største og minste radius er 1.23.

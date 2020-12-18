@@ -1,0 +1,1 @@
+Massen til det sorte hullet er 3.97 millioner solmasser. For å finne dette trengte du kanskje å finne at baneparameterene a = 0.13 AU og e = 0.33.
