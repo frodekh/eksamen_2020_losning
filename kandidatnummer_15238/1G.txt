@@ -1,1 +1,1 @@
-STJERNE A) asymptotisk kjempeSTJERNE B) hovedseire L=10^4STJERNE C) hovedserie helt til høyreSTJERNE D) hvit dvergSTJERNE E) hovedserie L=3
+STJERNE A) asymptotisk kjempeSTJERNE B) hovedseire L=10STJERNE C) hovedserie helt til høyreSTJERNE D) hvit dvergSTJERNE E) hovedserie L=3

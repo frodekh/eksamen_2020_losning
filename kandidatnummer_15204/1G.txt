@@ -1,1 +1,1 @@
-STJERNE A) asymptotisk kjempeSTJERNE B) hovedserie helt til høyreSTJERNE C) rød kjempeSTJERNE D) hpvedserie L=0.5STJERNE E) hovedserie L=0.2
+STJERNE A) asymptotisk kjempeSTJERNE B) hovedserie helt til høyreSTJERNE C) rød kjempeSTJERNE D) hpvedserie L=0.5STJERNE E) hovedserie L=0.24

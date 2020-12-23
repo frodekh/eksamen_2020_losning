@@ -1,1 +1,1 @@
-STJERNE A) hovedserie L=0.2STJERNE B) hovedserie helt til høyreSTJERNE C) asymptotisk kjempeSTJERNE D) hovedserie helt til venstreSTJERNE E) asymptotisk kjempe
+STJERNE A) hovedserie L=0.24STJERNE B) hovedserie helt til høyreSTJERNE C) asymptotisk kjempeSTJERNE D) hovedserie helt til venstreSTJERNE E) asymptotisk kjempe

@@ -1,1 +1,1 @@
-STJERNE A) asymptotisk kjempeSTJERNE B) hvit dvergSTJERNE C) hovedserie L=0.2STJERNE D) hovedserie helt til høyreSTJERNE E) hovedserie L=10^3
+STJERNE A) asymptotisk kjempeSTJERNE B) hvit dvergSTJERNE C) hovedserie L=0.24STJERNE D) hovedserie helt til høyreSTJERNE E) hovedserie L=10^3
